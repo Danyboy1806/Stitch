@@ -1,3 +1,54 @@
 body{
-	background-color: blue;
+	margin: 0;
+	font-family: helvetica, arial, san-serif;
 }
+
+
+header{
+	background-color: #FFAA6F;
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 10px;
+}
+
+h1, h2{
+	font-family: 'Pacifico', cursive;
+}
+
+header h1 {
+	color: lightblue;
+	font-size: 60px;
+
+
+}
+
+header img{
+	border-radius: 400px;
+    width: 300px;
+    border: 20px solid lightblue;
+
+}
+
+main{
+	max-width: 1550px;
+	margin: 0 auto;
+	text-align: center;
+	padding:20px;
+
+}
+
+main img{
+	max-width:50%;
+}
+
+h2{
+	font-size: 35px;
+	color: #FFAA6F
+}
+
+p{
+	font-size: 35px
+	color: white;
+}
+
+
