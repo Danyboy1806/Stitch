@@ -3,89 +3,63 @@ body{
 	font-family: helvetica, arial, san-serif;
 	font-size: 20px; 
 	line-height: 30px;
-
 }
-
-
 header{
 	background-image: url(https://cdn5.vectorstock.com/i/1000x1000/71/14/seamless-pattern-with-hawaiian-hibiscus-flower-vector-1597114.jpg);
 	text-align: center;
 	padding-top: 60px;
 	padding-bottom: 10px;
-	
 }
-
 h1, h2{
 	font-family: 'Pacifico', cursive;
 }
-
 header h1.titulo{
 	color: #280900;
 	background-color: white;
 }
-
 header h1 {
-
 	font-size: 60px;
-
-
 }
-
 header img{
 	border-radius: 400px;
     width: 300px;
     border: 20px solid lightblue;
-
 }
-
 main{
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 0 20px;
-
-
 }
-
 main img{
 	max-width:90%;
 	text-align: center;
 }
-
 h2{
 	font-size: 35px;
     color: #FF1E00 ;
     margin: 40px 0px 40px;
 }
-
 a{
 	color: lightblue;
 }
-
 a:hover{
 	color: orange;
 }
-
 footer{
 	background-color: #FF1E00;
 	text-align: center;
 }
-
 footer a{
 	color: white;
 }
-
 footer a:hover{
 	color: lightblue;
 }
-
 footer p{
 	margin: 0px;
 	padding-top: 30px;
-
 }
-
 p.caption{
 	color: #999999;
 	font-style: italic;
-
 }
